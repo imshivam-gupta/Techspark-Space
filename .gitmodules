@@ -1,0 +1,9 @@
+[submodule "React-Native-App"]
+	path = React-Native-App
+	url = https://github.com/imshivam-gupta/Techspark-App.git
+[submodule "Server"]
+	path = Server
+	url = https://github.com/imshivam-gupta/Techspark-Backend.git
+[submodule "Website-Nextjs"]
+	path = Website-Nextjs
+	url = https://github.com/imshivam-gupta/Techspark-Website.git
